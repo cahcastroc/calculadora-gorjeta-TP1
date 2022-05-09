@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">gorjeta-calculadora-tp</string>
+    <string name="total_da_conta">Total da Conta:</string>
+    <string name="insira_quantas_pessoas">Insira quantas pessoas…</string>
+    <string name="quantidade_de_pessoas">Quantidade de Pessoas:</string>
+    <string name="insira_o_total_da_conta">Insira o total da conta…</string>
+    <string name="gorjeta">Gorjeta</string>
+    <string name="_0">0%</string>
+    <string name="valor_gorjeta">Valor Gorjeta:</string>
+    <string name="r_0">R$ 0</string>
+    <string name="total">Total:</string>
+    <string name="total_por_pessoa">Total por pessoa:</string>
+    <string name="r_00">R$0</string>
+    <string name="cone_carteira_com_dinheiro">ícone carteira com dinheiro</string>
+    <string name="insira_o_valor" > Insira o valor...</string>
+    <string name="insira_o_seu_nome" />
+    <string name="calcular">Calcular</string>
+</resources>
